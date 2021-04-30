@@ -4,6 +4,10 @@
 
 ## Reservoir Engineering
 
+* **Repository location** : [GitHub](https://github.com/yohanesnuwara/pyreservoir)
+* **Created in**          : 2020
+* **Description**         : PyReservoir is a Python utility for reservoir engineering analysis, covering wide range of applications. Most of the workflows developed are based on the textbook *Fundamental Principles of Reservoir Engineering* by Brian F. Towler (2001). 
+
 ||||
 |:--:|:--:|:--:|
 |<div><img src="https://user-images.githubusercontent.com/51282928/116579163-5094e800-a93c-11eb-9f79-2f7d75b3c675.png" width="300"/></div> <br>[Reproducing Standing-Katz chart<br> with PVT correlation](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/reproducing_katz_chart.ipynb)|<div><img src="https://user-images.githubusercontent.com/51282928/116579264-6c988980-a93c-11eb-8f6f-3544218c828b.png" width="300"/></div><br>[Volumetric OOIP calculation](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/volumetrics_notebook.ipynb)|<div><img src="https://user-images.githubusercontent.com/51282928/116579406-8f2aa280-a93c-11eb-9b78-c485986a9cb6.png" width="300"/></div><br>[Modeling well transient response](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/well_transient_response_notebook.ipynb)|
