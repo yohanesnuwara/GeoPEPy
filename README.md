@@ -1,5 +1,6 @@
 # GeoPEPy
-Geoscience and petroleum engineering open-source programs in Python
+
+> **Geo**science and **P**etroleum **E**ngineering Open-Source Programs in **Py**thon 
 
 ||||
 |:--:|:--:|:--:|
