@@ -19,7 +19,12 @@
 ||||
 |:--:|:--:|:--:|
 |<div><img src="https://user-images.githubusercontent.com/51282928/116660624-80d09b00-a9bd-11eb-8420-c762f0958bc9.png" width="300"/></div><br>Read 3D Seismic Segy data|<div><img src="https://user-images.githubusercontent.com/51282928/116660420-32bb9780-a9bd-11eb-8431-4adcde740f8a.png" width="300"/></div><br>Seismic attribute analysis|<div><img src="https://user-images.githubusercontent.com/51282928/116579163-5094e800-a93c-11eb-9f79-2f7d75b3c675.png" width="300"/></div><br>Post-stack seismic inversion|
-|<div><img src="https://user-images.githubusercontent.com/51282928/116579163-5094e800-a93c-11eb-9f79-2f7d75b3c675.png" width="300"/></div><br>Seismic fluid factor|<br>Anomaly separation using<br>1D Fast Fourier Transform|<br>Anomaly separation using<br>2D Second Vertical Derivative|
+|<div><img src="https://user-images.githubusercontent.com/51282928/116670573-14a86400-a9ca-11eb-9e68-2fab1078f32c.png" width="300"/></div><br>Seismic fluid factor|<div><img src="https://user-images.githubusercontent.com/51282928/116670767-53d6b500-a9ca-11eb-8781-c722f4df3d7c.png" width="300"/></div><br>Anomaly separation using<br>1D Fast Fourier Transform|<div><img src="https://user-images.githubusercontent.com/51282928/116670976-97c9ba00-a9ca-11eb-9a88-7de8bce7f42c.png" width="300"/></div><br>Anomaly separation using<br>2D Second Vertical Derivative|
+
+![image](https://user-images.githubusercontent.com/51282928/116670767-53d6b500-a9ca-11eb-8781-c722f4df3d7c.png)
+![image](https://user-images.githubusercontent.com/51282928/116670976-97c9ba00-a9ca-11eb-9a88-7de8bce7f42c.png)
+
+
 
 <!--
 ## Reservoir Simulation
