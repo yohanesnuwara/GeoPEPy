@@ -18,8 +18,8 @@
 
 ||||
 |:--:|:--:|:--:|
-|<br>Read 3D Seismic Segy data|<br>Seismic attribute analysis|<br>Post-stack seismic inversion|
-|<br>Seismic fluid factor|<br>Anomaly separation using<br>1D Fast Fourier Transform|<br>Anomaly separation using<br>2D Second Vertical Derivative|
+|<div><img src="https://user-images.githubusercontent.com/51282928/116660624-80d09b00-a9bd-11eb-8420-c762f0958bc9.png" width="300"/></div><br>Read 3D Seismic Segy data|<div><img src="https://user-images.githubusercontent.com/51282928/116660420-32bb9780-a9bd-11eb-8431-4adcde740f8a.png" width="300"/></div><br>Seismic attribute analysis|<div><img src="https://user-images.githubusercontent.com/51282928/116579163-5094e800-a93c-11eb-9f79-2f7d75b3c675.png" width="300"/></div><br>Post-stack seismic inversion|
+|<div><img src="https://user-images.githubusercontent.com/51282928/116579163-5094e800-a93c-11eb-9f79-2f7d75b3c675.png" width="300"/></div><br>Seismic fluid factor|<br>Anomaly separation using<br>1D Fast Fourier Transform|<br>Anomaly separation using<br>2D Second Vertical Derivative|
 
 <!--
 ## Reservoir Simulation
