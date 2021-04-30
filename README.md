@@ -18,8 +18,21 @@
 
 ||||
 |:--:|:--:|:--:|
-|<div><img src="https://user-images.githubusercontent.com/51282928/116660420-32bb9780-a9bd-11eb-8431-4adcde740f8a.png" width="300"/></div><br>Seismic attribute analysis|<div><img src="https://user-images.githubusercontent.com/51282928/116671665-66052300-a9cb-11eb-9710-de639da029c0.png" width="300"/></div><br>Post-stack seismic inversion|<div><img src="https://user-images.githubusercontent.com/51282928/116670573-14a86400-a9ca-11eb-9e68-2fab1078f32c.png" width="300"/></div><br>Seismic fluid factor
+|<div><img src="https://user-images.githubusercontent.com/51282928/116672177-12dfa000-a9cc-11eb-80a8-841f49033eef.png" width="300"/></div><br>Seismic attribute analysis|<div><img src="https://user-images.githubusercontent.com/51282928/116671665-66052300-a9cb-11eb-9710-de639da029c0.png" width="300"/></div><br>Post-stack seismic inversion|<div><img src="https://user-images.githubusercontent.com/51282928/116670573-14a86400-a9ca-11eb-9e68-2fab1078f32c.png" width="300"/></div><br>Seismic fluid factor
 |<div><img src="https://user-images.githubusercontent.com/51282928/116670767-53d6b500-a9ca-11eb-8781-c722f4df3d7c.png" width="300"/></div><br>Anomaly separation using<br>1D Fast Fourier Transform|<div><img src="https://user-images.githubusercontent.com/51282928/116670976-97c9ba00-a9ca-11eb-9a88-7de8bce7f42c.png" width="300"/></div><br>Anomaly separation using<br>2D Second Vertical Derivative|
+
+## Reservoir geomechanics
+
+||||
+|:--:|:--:|:--:|
+|<br>Pore pressure from logs|<br>Stress polygon|<br>Fracture analysis|
+|<br>Gutenberg-Richter analysis|<br>Creep compliance analysis||
+
+## Formation evaluation
+
+||||
+|:--:|:--:|:--:|
+|<br>Triple combo|<br>Crossplot analysis||
 
 <!--
 ## Reservoir Simulation
