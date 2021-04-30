@@ -10,6 +10,21 @@
 |<div><img src="https://user-images.githubusercontent.com/51282928/116588245-8094b900-a945-11eb-92d1-a0ab0bd14910.png" width="300"/></div><br>[Aquifer influx calculation](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/aquifer_influx_notebook.ipynb)|<div><img src="https://user-images.githubusercontent.com/51282928/116588373-afab2a80-a945-11eb-8762-2dd292d09c60.png" width="300"/></div><br>[Material balance analysis <br>of gas reservoirs](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/gas_mbal_notebook.ipynb)|<div><img src="https://user-images.githubusercontent.com/51282928/116588465-cea9bc80-a945-11eb-8a12-2373cf112e9f.png" width="300"/></div><br>[Material balance analysis<br>of oil reservoirs](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/oil_mbal_notebook.ipynb)|
 |<div><img src="https://user-images.githubusercontent.com/51282928/116643637-b19fd880-a99b-11eb-8b96-130a487e9cb5.png" width="300"/></div><br>[PVT calculator](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/pvt_correlation_notebook.ipynb)|<div><img src="https://user-images.githubusercontent.com/51282928/116588909-4bd53180-a946-11eb-9c59-ebd50a3d959c.png" width="300"/></div><br>[1D Buckley-Leverett simulation](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/buckley_leverett_1d_notebook.ipynb)|<div><img src="https://user-images.githubusercontent.com/51282928/116588960-5abbe400-a946-11eb-8ad5-6522c1e5288d.png" width="300"/></div><br>[Stochastic Arps decline<br> curve analysis](https://nbviewer.jupyter.org/github/yohanesnuwara/pyreservoir/blob/master/notebooks/decline_curve_analysis_notebook.ipynb)|
 
+## Seismic Method
+
+||||
+|:--:|:--:|:--:|
+|<br>Read 3D Seismic Segy data|<br>Seismic attribute analysis|<br>Post-stack seismic inversion|
+|<br>Seismic fluid factor|<>||
+
+## Gravity Method
+
+||||
+|:--:|:--:|:--:|
+|<br>Anomaly separation using<br>1D Fast Fourier Transform|<br>Anomaly separation using<br>2D Second Vertical Derivative||
+
+
+<!--
 ## Reservoir Simulation
 
 ||||
