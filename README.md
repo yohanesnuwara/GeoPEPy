@@ -1,5 +1,9 @@
 # GeoPEPy
 
+<div>
+<img src="https://user-images.githubusercontent.com/51282928/119213684-312c4d80-baeb-11eb-89f5-d5d7a17014eb.png" width="200"/>
+</div>
+
 > **Geo**science and **P**etroleum **E**ngineering Open-Source Programs in **Py**thon 
 
 ## Reservoir Engineering
